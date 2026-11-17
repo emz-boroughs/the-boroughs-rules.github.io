@@ -1,0 +1,618 @@
+[
+  {
+    "id": "anglosw",
+    "label": "Anglo Saxon Sword",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/ANGLOSW.png"
+  },
+  {
+    "id": "flickyb",
+    "label": "Flicky B",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/FLICKYB.png"
+  },
+  {
+    "id": "flickyc",
+    "label": "Flicky C",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/FLICKYC.png"
+  },
+  {
+    "id": "lolisign",
+    "label": "Lollipop Sign",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/LOLISIGN.png"
+  },
+  {
+    "id": "maliuk",
+    "label": "Mali UK",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/MALIUK.png"
+  },
+  {
+    "id": "rambo",
+    "label": "Rambo",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/RAMBO.png"
+  },
+  {
+    "id": "rambov",
+    "label": "Rambo V",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/RAMBOV.png"
+  },
+  {
+    "id": "ukbkatana",
+    "label": "UK Katana",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKBKATANA.png"
+  },
+  {
+    "id": "ukbkatanab",
+    "label": "UK Katana B",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKBKATANAB.png"
+  },
+  {
+    "id": "ukbutch",
+    "label": "UK Butcher Knife",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKBUTCH.png"
+  },
+  {
+    "id": "ukswitchy",
+    "label": "UK Butterfly Knife",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKSWITCHY.png"
+  },
+  {
+    "id": "ukhammerc",
+    "label": "UK Hammer C",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKHAMMERC.png"
+  },
+  {
+    "id": "ukhammerb",
+    "label": "UK Hammer B",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKHAMMERB.png"
+  },
+  {
+    "id": "ukhammera",
+    "label": "UK Hammer A",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKHAMMERA.png"
+  },
+  {
+    "id": "ukhatchet",
+    "label": "UK Hatchet",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKHATCHET.png"
+  },
+  {
+    "id": "uktaxaxec",
+    "label": "UK Tactical Axe C",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKTAXAXEC.png"
+  },
+  {
+    "id": "ukkas",
+    "label": "King Arthurs Sword",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKKAS.png"
+  },
+  {
+    "id": "ukkitchenknife",
+    "label": "UK Kitchen Knife",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKKITCHENKNIFE.png"
+  },
+  {
+    "id": "ukkitchenknifeb",
+    "label": "UK Kitchen Knife B",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKKITCHENKNIFEB.png"
+  },
+  {
+    "id": "ukmachettea",
+    "label": "UK Machete A",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTEA.png"
+  },
+  {
+    "id": "ukmachetteb",
+    "label": "UK Machete B",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTEB.png"
+  },
+  {
+    "id": "ukmachettec",
+    "label": "UK Machete C",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTEC.png"
+  },
+  {
+    "id": "ukmachetted",
+    "label": "UK Machete D",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTED.png"
+  },
+  {
+    "id": "ukmachettee",
+    "label": "UK Machete E",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTEE.png"
+  },
+  {
+    "id": "ukmachettef",
+    "label": "UK Machete F",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTEF.png"
+  },
+  {
+    "id": "ukmachetteg",
+    "label": "UK Machete G",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTEG.png"
+  },
+  {
+    "id": "ukmachetteh",
+    "label": "UK Machete H",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTEH.png"
+  },
+  {
+    "id": "ukmachettei",
+    "label": "UK Machete I",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTEI.png"
+  },
+  {
+    "id": "ukmachettej",
+    "label": "UK Machete J",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTEJ.png"
+  },
+  {
+    "id": "ukmachettek",
+    "label": "UK Machete K",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTEK.png"
+  },
+  {
+    "id": "ukmachzk",
+    "label": "UK Machete ZK",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHZK.png"
+  },
+  {
+    "id": "ramboc",
+    "label": "UK Rambo C",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/RAMBOC.png"
+  },
+  {
+    "id": "ukroundersbat",
+    "label": "UK Rounders Bat",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKROUNDERSBAT.png"
+  },
+  {
+    "id": "ukshanka",
+    "label": "UK Shank A",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKSHANKA.png"
+  },
+  {
+    "id": "ukshankb",
+    "label": "UK Shank B",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKSHANKB.png"
+  },
+  {
+    "id": "ukshankc",
+    "label": "UK Shank C",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKSHANKC.png"
+  },
+  {
+    "id": "ukshankd",
+    "label": "UK Shank D",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKSHANKD.png"
+  },
+  {
+    "id": "ukshanke",
+    "label": "UK Shank E",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKSHANKE.png"
+  },
+  {
+    "id": "uktaxaxeb",
+    "label": "UK Tactical Axe B",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKTAXAXEB.png"
+  },
+  {
+    "id": "ukuknife",
+    "label": "UK Utility Knife",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKUKNIFE.png"
+  },
+  {
+    "id": "zkxh",
+    "label": "UK ZK Tingz",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/ZKXH.png"
+  },
+  {
+    "id": "zkz",
+    "label": "UK ZKZ",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/ZKZ.png"
+  },
+  {
+    "id": "yrun",
+    "label": "Yu Running",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/YRUN.png"
+  },
+  {
+    "id": "zkn",
+    "label": "ZKN",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/ZKN.png"
+  },
+  {
+    "id": "zkw",
+    "label": "ZKW",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/ZKW.png"
+  },
+  {
+    "id": "zkx",
+    "label": "ZKX",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/ZKX.png"
+  },
+  {
+    "id": "zkxx",
+    "label": "ZKXX",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/ZKXX.png"
+  },
+  {
+    "id": "zky",
+    "label": "ZKY",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/ZKY.png"
+  },
+  {
+    "id": "bayo",
+    "label": "Bayonet",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/BAYO.png"
+  },
+  {
+    "id": "blicky",
+    "label": "Blicky",
+    "category": "Firearm",
+    "ammo": "AMMO_PISTOL",
+    "image": "assets/weapons/BLICKY.png"
+  },
+  {
+    "id": "bruckshotb",
+    "label": "Bruckshot B",
+    "category": "Firearm",
+    "ammo": "AMMO_SHOTGUN",
+    "image": "assets/weapons/BRUCKSHOTB.png"
+  },
+  {
+    "id": "bruckshot",
+    "label": "Bruckshot",
+    "category": "Firearm",
+    "ammo": "AMMO_SHOTGUN",
+    "image": "assets/weapons/BRUCKSHOT.png"
+  },
+  {
+    "id": "ukhandting",
+    "label": "UK Hand Ting",
+    "category": "Firearm",
+    "ammo": "AMMO_PISTOL",
+    "image": "assets/weapons/UKHANDTING.png"
+  },
+  {
+    "id": "lpump",
+    "label": "Long Pump",
+    "category": "Firearm",
+    "ammo": "AMMO_SHOTGUN",
+    "image": "assets/weapons/LPUMP.png"
+  },
+  {
+    "id": "masheend",
+    "label": "Masheen D",
+    "category": "Firearm",
+    "ammo": "AMMO_PISTOL",
+    "image": "assets/weapons/MASHEEND.png"
+  },
+  {
+    "id": "mashine",
+    "label": "Mashine",
+    "category": "Firearm",
+    "ammo": "AMMO_RIFLE",
+    "image": "assets/weapons/MASHINE.png"
+  },
+  {
+    "id": "mashineb",
+    "label": "Mashine B",
+    "category": "Firearm",
+    "ammo": "AMMO_PISTOL",
+    "image": "assets/weapons/MASHINEB.png"
+  },
+  {
+    "id": "mashinec",
+    "label": "Mashine C",
+    "category": "Firearm",
+    "ammo": "AMMO_RIFLE",
+    "image": "assets/weapons/MASHINEC.png"
+  },
+  {
+    "id": "ukrussian",
+    "label": "UK Russian",
+    "category": "Firearm",
+    "ammo": "AMMO_PISTOL",
+    "image": "assets/weapons/UKRUSSIAN.png"
+  },
+  {
+    "id": "sopu",
+    "label": "Sawnoff Pumpy",
+    "category": "Firearm",
+    "ammo": "AMMO_SHOTGUN",
+    "image": "assets/weapons/SOPU.png"
+  },
+  {
+    "id": "smallspinner",
+    "label": "Small Spinner",
+    "category": "Firearm",
+    "ammo": "AMMO_PISTOL",
+    "image": "assets/weapons/SMALLSPINNER.png"
+  },
+  {
+    "id": "ukbigmac",
+    "label": "UK Big Mac",
+    "category": "Firearm",
+    "ammo": "AMMO_PISTOL",
+    "image": "assets/weapons/UKBIGMAC.png"
+  },
+  {
+    "id": "ukdb",
+    "label": "UK Double Barrel",
+    "category": "Firearm",
+    "ammo": "AMMO_SHOTGUN",
+    "image": "assets/weapons/UKDB.png"
+  },
+  {
+    "id": "ukgting",
+    "label": "UK G Ting",
+    "category": "Firearm",
+    "ammo": "AMMO_PISTOL",
+    "image": "assets/weapons/UKGTING.png"
+  },
+  {
+    "id": "ukk",
+    "label": "UK K",
+    "category": "Firearm",
+    "ammo": "AMMO_RIFLE",
+    "image": "assets/weapons/UKK.png"
+  },
+  {
+    "id": "ukolds",
+    "label": "UK Old Sawn",
+    "category": "Firearm",
+    "ammo": "AMMO_SHOTGUN",
+    "image": "assets/weapons/UKOLDS.png"
+  },
+  {
+    "id": "ukpumpy",
+    "label": "UK Pumpy",
+    "category": "Firearm",
+    "ammo": "AMMO_SHOTGUN",
+    "image": "assets/weapons/UKPUMPY.png"
+  },
+  {
+    "id": "reh",
+    "label": "UK Rifle",
+    "category": "Firearm",
+    "ammo": "AMMO_SNIPER",
+    "image": "assets/weapons/REH.png"
+  },
+  {
+    "id": "ukskenga",
+    "label": "UK Skenga",
+    "category": "Firearm",
+    "ammo": "AMMO_PISTOL",
+    "image": "assets/weapons/UKSKENGA.png"
+  },
+  {
+    "id": "ukspinnera",
+    "label": "UK Spinner A",
+    "category": "Firearm",
+    "ammo": "AMMO_PISTOL",
+    "image": "assets/weapons/UKSPINNERA.png"
+  },
+  {
+    "id": "ukspinnerb",
+    "label": "UK Spinner B",
+    "category": "Firearm",
+    "ammo": "AMMO_PISTOL",
+    "image": "assets/weapons/UKSPINNERB.png"
+  },
+  {
+    "id": "ukvthandting",
+    "label": "UK V Two Hand Ting",
+    "category": "Firearm",
+    "ammo": "AMMO_PISTOL",
+    "image": "assets/weapons/UKVTHANDTING.png"
+  },
+  {
+    "id": "flickyd",
+    "label": "Flicky D",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/FLICKYD.png"
+  },
+  {
+    "id": "flickye",
+    "label": "Flicky E",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/FLICKYE.png"
+  },
+  {
+    "id": "flickyf",
+    "label": "Flicky F",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/FLICKYF.png"
+  },
+  {
+    "id": "hmw",
+    "label": "Homemade Wap",
+    "category": "Firearm",
+    "ammo": "AMMO_RIFLE",
+    "image": "assets/weapons/HMW.png"
+  },
+  {
+    "id": "ukswitchyb",
+    "label": "UK Switchblade B",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKSWITCHYB.png"
+  },
+  {
+    "id": "ukshankf",
+    "label": "UK Shank F",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKSHANKF.png"
+  },
+  {
+    "id": "ukshankg",
+    "label": "UK Shank G",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKSHANKG.png"
+  },
+  {
+    "id": "ukshankh",
+    "label": "UK Shank H",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKSHANKH.png"
+  },
+  {
+    "id": "ukshanki",
+    "label": "UK Shank I",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKSHANKI.png"
+  },
+  {
+    "id": "ukshankj",
+    "label": "UK Shank J",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKSHANKJ.png"
+  },
+  {
+    "id": "ukmachettl",
+    "label": "UK Machete L",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTL.png"
+  },
+  {
+    "id": "ukmachettm",
+    "label": "UK Machete M",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTM.png"
+  },
+  {
+    "id": "ukmachettn",
+    "label": "UK Machete N",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTN.png"
+  },
+  {
+    "id": "ukmachetto",
+    "label": "UK Machete O",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTO.png"
+  },
+  {
+    "id": "ukmachettp",
+    "label": "UK Machete P",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTP.png"
+  },
+  {
+    "id": "ukmachettq",
+    "label": "UK Machete Q",
+    "category": "Melee",
+    "ammo": "AMMO_NONE",
+    "image": "assets/weapons/UKMACHETTQ.png"
+  }
+]
